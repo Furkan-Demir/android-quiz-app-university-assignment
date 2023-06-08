@@ -1,0 +1,604 @@
+[
+  {
+    "name": "Music",
+    "questions": [
+      {
+        "question": "Which bands is it?",
+        "answers": [
+          "Arctic Monkeys",
+          "Duman",
+          "Daft Punk",
+          "Metallica"
+        ],
+        "correct_answer": "Arctic Monkeys",
+        "image": "arctic"
+      },
+      {
+        "question": "Which instrument is a string instrument?",
+        "answers": [
+          "Violin",
+          "Flute",
+          "Trumpet",
+          "Drums"
+        ],
+        "correct_answer": "Violin"
+      },
+      {
+        "question": "Which is not a work of Mozart?",
+        "answers": [
+          "Don Giovanni",
+          "The Magic Flute",
+          "Autumn",
+          "The Marriage of Figaro"
+        ],
+        "correct_answer": "Autumn",
+        "image": "mozart"
+      },
+      {
+        "question": "How many notes does an octave contain?",
+        "answers": [
+          "8",
+          "7",
+          "6",
+          "5"
+        ],
+        "correct_answer": "8"
+      },
+      {
+        "question": "In which country did Blues music originate?",
+        "answers": [
+          "America",
+          "England",
+          "France",
+          "Germany"
+        ],
+        "correct_answer": "America"
+      },
+      {
+        "question": "Which is a rock band?",
+        "answers": [
+          "Metallica",
+          "Backstreet Boys",
+          "Spice Girls",
+          "Boney M"
+        ],
+        "correct_answer": "Metallica"
+      },
+      {
+        "question": "Which is not a note?",
+        "answers": [
+          "Do",
+          "Mi",
+          "Ti",
+          "Si"
+        ],
+        "correct_answer": "Ti"
+      },
+      {
+        "question": "Which instrument is a wind instrument?",
+        "answers": [
+          "Clarinet",
+          "Piano",
+          "Guitar",
+          "Drums"
+        ],
+        "correct_answer": "Clarinet"
+      },
+      {
+        "question": "Which is a Madonna song?",
+        "answers": [
+          "Like a Virgin",
+          "Baby One More Time",
+          "Bad Guy",
+          "Hotline Bling"
+        ],
+        "correct_answer": "Like a Virgin"
+      },
+      {
+        "question": "Which country is the band Beatles from?",
+        "answers": [
+          "England",
+          "America",
+          "Germany",
+          "France"
+        ],
+        "correct_answer": "England"
+      }
+    ]
+  },
+  {
+    "name": "Technology",
+    "questions": [
+      {
+        "question": "What is the most widely used operating system worldwide?",
+        "answers": ["Windows", "MacOS", "Linux", "Android"],
+        "correct_answer": "Android"
+      },
+      {
+        "question": "What does HTML stand for?",
+        "answers": ["Hypertext Makeup Language", "Hyperlink and Text Markup Language", "Hypertext Markup Language", "Hyperlink Markup Language"],
+        "correct_answer": "Hypertext Markup Language"
+      },
+      {
+        "question": "What does WWW stand for?",
+        "answers": ["World Wide Web", "Worldwide Web", "World Wired Web", "World Wide Word"],
+        "correct_answer": "World Wide Web"
+      },
+      {
+        "question": "How many bits does IPv6 address?",
+        "answers": ["128 bits", "64 bits", "32 bits", "256 bits"],
+        "correct_answer": "128 bits"
+      },
+      {
+        "question": "What does USB stand for?",
+        "answers": ["Universal Serial Bus", "Unique Serial Bus", "Unified Serial Bus", "Universal System Bus"],
+        "correct_answer": "Universal Serial Bus"
+      },
+      {
+        "question": "Which field of science does artificial intelligence studies belong to?",
+        "answers": ["Biology", "Physics", "Chemistry", "Computer Science"],
+        "correct_answer": "Computer Science"
+      },
+      {
+        "question": "What type of programming language is Python?",
+        "answers": ["Interpreted language", "Compiled language", "Low level language", "None of the above"],
+        "correct_answer": "Interpreted language"
+      },
+      {
+        "question": "What type of file format is JPEG?",
+        "answers": ["Video", "Sound", "Image", "Text"],
+        "correct_answer": "Image"
+      },
+      {
+        "question": "What is the mascot of Linux?",
+        "answers": ["Penguin", "Dog", "Cat", "Tiger"],
+        "correct_answer": "Penguin"
+      },
+      {
+        "question": "How many megabytes are in a gigabyte?",
+        "answers": ["1024", "1000", "512", "2048"],
+        "correct_answer": "1024"
+      }
+    ]
+  },
+  {
+    "name": "Art",
+    "questions": [
+      {
+        "question": "Who painted the Mona Lisa?",
+        "answers": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "correct_answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "Which of these is not a form of visual art?",
+        "answers": ["Sculpture", "Painting", "Symphony", "Photography"],
+        "correct_answer": "Symphony"
+      },
+      {
+        "question": "What is the primary material used in making a mosaic?",
+        "answers": ["Oil paint", "Clay", "Small pieces of glass, stone, or other materials", "Canvas"],
+        "correct_answer": "Small pieces of glass, stone, or other materials"
+      },
+      {
+        "question": "What art movement is Salvador Dali associated with?",
+        "answers": ["Cubism", "Impressionism", "Surrealism", "Abstract Expressionism"],
+        "correct_answer": "Surrealism"
+      },
+      {
+        "question": "Which artist is known for his series of paintings of Water Lilies?",
+        "answers": ["Claude Monet", "Vincent Van Gogh", "Pablo Picasso", "Salvador Dali"],
+        "correct_answer": "Claude Monet"
+      },
+      {
+        "question": "Where is the Louvre Museum located?",
+        "answers": ["London", "New York", "Paris", "Tokyo"],
+        "correct_answer": "Paris"
+      },
+      {
+        "question": "Which famous artist cut off his own ear?",
+        "answers": ["Leonardo da Vinci", "Vincent Van Gogh", "Claude Monet", "Pablo Picasso"],
+        "correct_answer": "Vincent Van Gogh"
+      },
+      {
+        "question": "What is pointillism?",
+        "answers": ["A style of painting in which small, distinct dots of color are applied in patterns to form an image", "A style of painting characterized by short, choppy brush strokes", "A style of painting in which the artist paints while standing on one foot", "A style of painting in which the artist uses only black and white paint"],
+        "correct_answer": "A style of painting in which small, distinct dots of color are applied in patterns to form an image"
+      },
+      {
+        "question": "Who painted 'The Scream'?",
+        "answers": ["Edvard Munch", "Claude Monet", "Pablo Picasso", "Vincent Van Gogh"],
+        "correct_answer": "Edvard Munch"
+      },
+      {
+        "question": "In what year was the Renaissance period?",
+        "answers": ["14th to the 17th century", "18th to 19th century", "20th century", "21st century"],
+        "correct_answer": "14th to the 17th century"
+      }
+    ]
+  },
+  {
+    "name": "Science",
+    "questions": [
+      {
+        "question": "Who is considered the father of modern physics?",
+        "answers": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+        "correct_answer": "Albert Einstein"
+      },
+      {
+        "question": "What is the chemical symbol for Hydrogen?",
+        "answers": ["Hy", "Ho", "H", "He"],
+        "correct_answer": "H"
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answers": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "correct_answer": "Mars"
+      },
+      {
+        "question": "What is the human body’s largest organ?",
+        "answers": ["Heart", "Skin", "Liver", "Brain"],
+        "correct_answer": "Skin"
+      },
+      {
+        "question": "What is the powerhouse of the cell?",
+        "answers": ["Nucleus", "Mitochondria", "Ribosomes", "Endoplasmic reticulum"],
+        "correct_answer": "Mitochondria"
+      },
+      {
+        "question": "Which element has the atomic number 1?",
+        "answers": ["Helium", "Hydrogen", "Lithium", "Beryllium"],
+        "correct_answer": "Hydrogen"
+      },
+      {
+        "question": "What is the speed of light?",
+        "answers": ["299,792 km/s", "150,000 km/s", "1,080,000 km/h", "100,000 km/s"],
+        "correct_answer": "299,792 km/s"
+      },
+      {
+        "question": "What is the primary greenhouse gas produced by human activities?",
+        "answers": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Methane"],
+        "correct_answer": "Carbon Dioxide"
+      },
+      {
+        "question": "Which animal has the longest lifespan?",
+        "answers": ["Elephant", "Tortoise", "Whale", "Parrot"],
+        "correct_answer": "Whale"
+      },
+      {
+        "question": "Which blood type is known as the universal donor?",
+        "answers": ["A", "B", "AB", "O"],
+        "correct_answer": "O"
+      }
+    ]
+  },
+  {
+    "name": "Geography",
+    "questions": [
+      {
+        "question": "What is the capital city of Australia?",
+        "answers": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "correct_answer": "Canberra"
+      },
+      {
+        "question": "Which is the largest lake in Africa?",
+        "answers": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+        "correct_answer": "Lake Victoria"
+      },
+      {
+        "question": "Which is the longest river in the world?",
+        "answers": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "correct_answer": "Nile River"
+      },
+      {
+        "question": "Which country is the Great Barrier Reef located in?",
+        "answers": ["Australia", "Brazil", "Mexico", "Indonesia"],
+        "correct_answer": "Australia"
+      },
+      {
+        "question": "What is the largest desert in the world?",
+        "answers": ["Sahara Desert", "Gobi Desert", "Arabian Desert", "Antarctic Desert"],
+        "correct_answer": "Sahara Desert"
+      },
+      {
+        "question": "Which country is Mount Everest located in?",
+        "answers": ["Nepal", "India", "China", "Tibet"],
+        "correct_answer": "Nepal"
+      },
+      {
+        "question": "Which continent is known as the 'Land Down Under'?",
+        "answers": ["North America", "Asia", "Europe", "Australia"],
+        "correct_answer": "Australia"
+      },
+      {
+        "question": "What is the largest island in the world?",
+        "answers": ["Greenland", "Madagascar", "Borneo", "Cuba"],
+        "correct_answer": "Greenland"
+      },
+      {
+        "question": "Which country is the smallest in terms of land area?",
+        "answers": ["Vatican City", "Monaco", "Nauru", "Tuvalu"],
+        "correct_answer": "Vatican City"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "answers": ["Japan", "China", "South Korea", "Thailand"],
+        "correct_answer": "Japan"
+      }
+    ]
+  },
+  {
+    "name": "Astronomy",
+    "questions": [
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answers": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "correct_answer": "Mars"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answers": ["Jupiter", "Saturn", "Neptune", "Earth"],
+        "correct_answer": "Jupiter"
+      },
+      {
+        "question": "What is the closest star to Earth?",
+        "answers": ["Alpha Centauri", "Sun", "Sirius", "Betelgeuse"],
+        "correct_answer": "Sun"
+      },
+      {
+        "question": "Which galaxy is home to our solar system?",
+        "answers": ["Andromeda Galaxy", "Whirlpool Galaxy", "Pinwheel Galaxy", "Milky Way Galaxy"],
+        "correct_answer": "Milky Way Galaxy"
+      },
+      {
+        "question": "What is the process by which stars produce energy?",
+        "answers": ["Nuclear fusion", "Radioactive decay", "Chemical reaction", "Electromagnetic radiation"],
+        "correct_answer": "Nuclear fusion"
+      },
+      {
+        "question": "What is a supernova?",
+        "answers": ["The explosion of a dying star", "A type of black hole", "A large asteroid", "A comet passing near Earth"],
+        "correct_answer": "The explosion of a dying star"
+      },
+      {
+        "question": "What is the study of celestial objects, space, and the physical universe called?",
+        "answers": ["Astronomy", "Geology", "Biology", "Chemistry"],
+        "correct_answer": "Astronomy"
+      },
+      {
+        "question": "What is the phenomenon where light is bent due to gravity?",
+        "answers": ["Gravitational lensing", "Refraction", "Diffraction", "Interference"],
+        "correct_answer": "Gravitational lensing"
+      },
+      {
+        "question": "What is the name for a group of stars that form a recognizable pattern?",
+        "answers": ["Constellation", "Nebula", "Galaxy", "Solar system"],
+        "correct_answer": "Constellation"
+      },
+      {
+        "question": "What is the age of the universe believed to be?",
+        "answers": ["13.8 billion years", "4.5 billion years", "6,000 years", "Infinite"],
+        "correct_answer": "13.8 billion years"
+      }
+    ]
+  },
+  {
+    "name": "Biology",
+    "questions": [
+      {
+        "question": "What is the powerhouse of the cell?",
+        "answers": ["Nucleus", "Mitochondria", "Ribosomes", "Endoplasmic reticulum"],
+        "correct_answer": "Mitochondria"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "answers": ["Heart", "Skin", "Liver", "Brain"],
+        "correct_answer": "Skin"
+      },
+      {
+        "question": "What is the process by which plants convert sunlight into energy?",
+        "answers": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+        "correct_answer": "Photosynthesis"
+      },
+      {
+        "question": "What is the smallest unit of life?",
+        "answers": ["Cell", "Organ", "Tissue", "Organism"],
+        "correct_answer": "Cell"
+      },
+      {
+        "question": "What is the basic unit of heredity in living organisms?",
+        "answers": ["Protein", "Gene", "Enzyme", "Chromosome"],
+        "correct_answer": "Gene"
+      },
+      {
+        "question": "Which is the largest mammal on Earth?",
+        "answers": ["Elephant", "Blue whale", "Giraffe", "Hippopotamus"],
+        "correct_answer": "Blue whale"
+      },
+      {
+        "question": "Which is the largest part of the human brain?",
+        "answers": ["Cerebrum", "Cerebellum", "Brainstem", "Frontal lobe"],
+        "correct_answer": "Cerebrum"
+      },
+      {
+        "question": "What is the study of classification and naming of organisms called?",
+        "answers": ["Ecology", "Evolution", "Taxonomy", "Genetics"],
+        "correct_answer": "Taxonomy"
+      },
+      {
+        "question": "Which gas do plants release during photosynthesis?",
+        "answers": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "correct_answer": "Oxygen"
+      },
+      {
+        "question": "What is the main function of red blood cells?",
+        "answers": ["Carrying oxygen", "Fighting infections", "Digesting food", "Producing hormones"],
+        "correct_answer": "Carrying oxygen"
+      }
+    ]
+  },
+  {
+    "name": "Software",
+    "questions": [
+      {
+        "question": "What is the process of finding and fixing bugs in software called?",
+        "answers": ["Debugging", "Compiling", "Testing", "Coding"],
+        "correct_answer": "Debugging"
+      },
+      {
+        "question": "Which programming language is often used for developing mobile applications?",
+        "answers": ["Java", "Python", "C++", "Ruby"],
+        "correct_answer": "Java"
+      },
+      {
+        "question": "What is the term for a program that disguises itself as a legitimate software?",
+        "answers": ["Malware", "Spyware", "Virus", "Trojan horse"],
+        "correct_answer": "Trojan horse"
+      },
+      {
+        "question": "Which programming language is often used for web development?",
+        "answers": ["JavaScript", "C#", "Swift", "Rust"],
+        "correct_answer": "JavaScript"
+      },
+      {
+        "question": "What is the software development process that emphasizes continuous iteration and improvement?",
+        "answers": ["Agile", "Waterfall", "Scrum", "Lean"],
+        "correct_answer": "Agile"
+      },
+      {
+        "question": "What is an IDE?",
+        "answers": ["Integrated Development Environment", "Internet Database Environment", "Interface Design Element", "Internet Development Extension"],
+        "correct_answer": "Integrated Development Environment"
+      },
+      {
+        "question": "What is version control in software development?",
+        "answers": ["A system for tracking and managing changes to code", "A process for compiling code", "A technique for optimizing code performance", "A method for testing code"],
+        "correct_answer": "A system for tracking and managing changes to code"
+      },
+      {
+        "question": "What is open-source software?",
+        "answers": ["Software that is free to use and modify", "Software that is only available for commercial use", "Software that requires a license to use", "Software that is outdated and no longer supported"],
+        "correct_answer": "Software that is free to use and modify"
+      },
+      {
+        "question": "What is the term for a software program that replicates itself and spreads to other computers?",
+        "answers": ["Virus", "Worm", "Spyware", "Adware"],
+        "correct_answer": "Worm"
+      },
+      {
+        "question": "What is the purpose of a software patch?",
+        "answers": ["To fix bugs or security vulnerabilities", "To add new features", "To improve performance", "To uninstall the software"],
+        "correct_answer": "To fix bugs or security vulnerabilities"
+      }
+    ]
+  },
+  {
+    "name": "React.js Web Development",
+    "questions": [
+      {
+        "question": "What is React.js?",
+        "answers": ["A programming language", "A front-end framework", "A database management system", "A server-side scripting language"],
+        "correct_answer": "A front-end framework"
+      },
+      {
+        "question": "What is JSX in React.js?",
+        "answers": ["A JavaScript extension for XML", "A styling framework", "A state management library", "A package manager"],
+        "correct_answer": "A JavaScript extension for XML"
+      },
+      {
+        "question": "What is the virtual DOM in React.js?",
+        "answers": ["A representation of the actual HTML DOM in memory", "A server-side rendering technique", "A version control system for React.js projects", "A database management system"],
+        "correct_answer": "A representation of the actual HTML DOM in memory"
+      },
+      {
+        "question": "What is the purpose of state in React.js?",
+        "answers": ["To manage data within a component", "To define the structure of a component", "To handle user interactions", "To style the user interface"],
+        "correct_answer": "To manage data within a component"
+      },
+      {
+        "question": "What is the difference between props and state in React.js?",
+        "answers": ["Props are immutable, while state can be changed", "Props are used for styling, while state is used for data management", "Props are used in functional components, while state is used in class components", "There is no difference, they are interchangeable"],
+        "correct_answer": "Props are immutable, while state can be changed"
+      },
+      {
+        "question": "What is a React component?",
+        "answers": ["A reusable piece of code that renders part of the user interface", "A built-in JavaScript function", "A database schema", "A programming language"],
+        "correct_answer": "A reusable piece of code that renders part of the user interface"
+      },
+      {
+        "question": "What is the purpose of lifecycle methods in React.js?",
+        "answers": ["To perform actions at different stages of a component's life", "To handle user input in forms", "To execute server-side logic", "To manage database connections"],
+        "correct_answer": "To perform actions at different stages of a component's life"
+      },
+      {
+        "question": "What is the role of React Router in React.js?",
+        "answers": ["To handle client-side routing in a single-page application", "To connect React.js with a backend server", "To manage global state in a React application", "To optimize performance in React.js applications"],
+        "correct_answer": "To handle client-side routing in a single-page application"
+      },
+      {
+        "question": "What is React Native?",
+        "answers": ["A mobile app development framework based on React.js", "A server-side rendering library for React.js", "A state management library for React.js", "A back-end framework for React.js applications"],
+        "correct_answer": "A mobile app development framework based on React.js"
+      },
+      {
+        "question": "What is the purpose of Redux in React.js?",
+        "answers": ["To manage global state in a React application", "To handle user authentication", "To improve performance in React.js applications", "To perform server-side rendering"],
+        "correct_answer": "To manage global state in a React application"
+      }
+    ]
+  },
+  {
+    "name": "Express.js Backend Development",
+    "questions": [
+      {
+        "question": "What is Express.js?",
+        "answers": ["A front-end framework", "A programming language", "A database management system", "A back-end web application framework"],
+        "correct_answer": "A back-end web application framework"
+      },
+      {
+        "question": "What is the purpose of middleware in Express.js?",
+        "answers": ["To handle user authentication", "To manage database connections", "To handle HTTP requests and responses", "To perform server-side rendering"],
+        "correct_answer": "To handle HTTP requests and responses"
+      },
+      {
+        "question": "What is routing in Express.js?",
+        "answers": ["Defining the URL structure of a web application", "Optimizing database queries", "Styling the user interface", "Implementing authentication and authorization"],
+        "correct_answer": "Defining the URL structure of a web application"
+      },
+      {
+        "question": "What is a RESTful API?",
+        "answers": ["An architectural style for building web services", "A programming language for web development", "A version control system for Express.js projects", "A database management system"],
+        "correct_answer": "An architectural style for building web services"
+      },
+      {
+        "question": "What is the purpose of middleware like bodyParser in Express.js?",
+        "answers": ["To parse incoming request bodies", "To handle routing logic", "To implement caching mechanisms", "To connect with external APIs"],
+        "correct_answer": "To parse incoming request bodies"
+      },
+      {
+        "question": "What is error handling middleware in Express.js?",
+        "answers": ["Middleware to handle errors that occur during the request-response cycle", "Middleware to handle user authentication", "Middleware to optimize database queries", "Middleware to perform server-side rendering"],
+        "correct_answer": "Middleware to handle errors that occur during the request-response cycle"
+      },
+      {
+        "question": "What is the purpose of using a template engine with Express.js?",
+        "answers": ["To generate dynamic HTML pages on the server", "To handle user input in forms", "To execute server-side logic", "To connect with a database"],
+        "correct_answer": "To generate dynamic HTML pages on the server"
+      },
+      {
+        "question": "What is the difference between app.get() and app.post() in Express.js?",
+        "answers": ["app.get() is used for handling GET requests, while app.post() is used for handling POST requests", "app.get() is used for handling POST requests, while app.post() is used for handling GET requests", "There is no difference, they are interchangeable", "app.get() is used for handling both GET and POST requests"],
+        "correct_answer": "app.get() is used for handling GET requests, while app.post() is used for handling POST requests"
+      },
+      {
+        "question": "What is the purpose of using a database with Express.js?",
+        "answers": ["To persist data and interact with it", "To handle user authentication", "To optimize performance in Express.js applications", "To perform server-side rendering"],
+        "correct_answer": "To persist data and interact with it"
+      },
+      {
+        "question": "What is middleware chaining in Express.js?",
+        "answers": ["Connecting multiple middleware functions in a specific order", "Handling multiple concurrent requests", "Implementing encryption algorithms", "Optimizing database queries"],
+        "correct_answer": "Connecting multiple middleware functions in a specific order"
+      }
+    ]
+  }
+]
